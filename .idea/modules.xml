@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Advanced/.idea/Advanced.iml" filepath="$PROJECT_DIR$/../Advanced/.idea/Advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassesandObjects/.idea/ClassesandObjects.iml" filepath="$PROJECT_DIR$/ClassesandObjects/.idea/ClassesandObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Datatypes/.idea/Datatypes.iml" filepath="$PROJECT_DIR$/Datatypes/.idea/Datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dictionaries/.idea/Dictionaries.iml" filepath="$PROJECT_DIR$/Dictionaries/.idea/Dictionaries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Functions/.idea/Functions.iml" filepath="$PROJECT_DIR$/Functions/.idea/Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListAdvanced/.idea/ListAdvanced.iml" filepath="$PROJECT_DIR$/ListAdvanced/.idea/ListAdvanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lists2/.idea/Lists.iml" filepath="$PROJECT_DIR$/Lists2/.idea/Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonFundamentals.iml" filepath="$PROJECT_DIR$/.idea/PythonFundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Regex/.idea/Regex.iml" filepath="$PROJECT_DIR$/Regex/.idea/Regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text_processing/.idea/Text_processing.iml" filepath="$PROJECT_DIR$/Text_processing/.idea/Text_processing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classandObjects/.idea/classandObjects.iml" filepath="$PROJECT_DIR$/classandObjects/.idea/classandObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/finalexam/.idea/finalexam.iml" filepath="$PROJECT_DIR$/finalexam/.idea/finalexam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamentalsMidExam/.idea/fundamentalsMidExam.iml" filepath="$PROJECT_DIR$/fundamentalsMidExam/.idea/fundamentalsMidExam.iml" />
+    </modules>
+  </component>
+</project>
